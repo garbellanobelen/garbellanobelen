@@ -3,7 +3,7 @@
 - :cherry_blossom: Hi, I’m Belén Garbellano, and I'm from Argentina
 - :cherry_blossom: I’m trained as a frontend developer, and I've acquired differents skills to create web sites. 
 - :cherry_blossom: I’m currently learning software development, and I am passionate about web development.
-- :cherry_blossom: I'm looking for my first professional job to demonstrate my performance and quality of work. I can adapt to all kind of situations and give the best of me. I also prove to be an effective team worker, and keep studying to improve myself. 
+- :cherry_blossom: I'm looking for a professional job to demonstrate my performance and quality of work. I can adapt to all kind of situations and give the best of me. I also prove to be an effective team worker, and keep studying to improve myself. 
 - :cherry_blossom: How to reach me belugarbellanowd@gmail.com
 - :cherry_blossom: Fun fact: Love music, cats and everything related to space. And in my free time I study italian.
 
