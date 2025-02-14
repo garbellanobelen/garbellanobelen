@@ -8,7 +8,7 @@ I am a frontend developer and occasional UI/UX Designer who loves making high-qu
 * **I am interested in Web designing*
 - 🌱 I’m currently learning ...
   - php
-  - IT support
+  - Python
   - React js
   - MySQL 
 - 👯 I’m looking forward to collaborate on new projects.
