@@ -12,7 +12,7 @@ I am a frontend developer and occasional UI/UX Designer who loves making high-qu
   - React js
   - MySQL 
 - 👯 I’m looking forward to collaborate on new projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- ✔ Ask me about anything, I am happy to help. 😉<br>
 - Outside tech, 📖 I love to read novels, playing the guitar and 🎵 listen to music.
 - 📫 You can reach me at: <a href="https://www.linkedin.com/in/belengarbellano/">LinkedIn</a>
 <br>
