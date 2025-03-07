@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a frontend developer and occasional UI/UX Designer who loves making high-quality websites. Javascript, HTML, and CSS are the languages I am good at. I love learning and building something new, productive, innovative and creative.
-* **I am interested in Web designing*
+* *I am interested in Web designing*
 - 🌱 I’m currently learning ...
   - php
   - Python
