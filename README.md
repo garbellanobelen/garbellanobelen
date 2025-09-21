@@ -1,12 +1,11 @@
 ## Hi, I'm Belén Garbellano 👋
 
-<img align="right" width=300px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd6aTNzaHFjNDd4ajEyYjllYmFibW91dWVvNmtjazB5bHRzMmNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 I am a frontend developer and occasional UI/UX Designer who loves making high-quality websites. Javascript, HTML, and CSS are the languages I am good at. I love learning and building something new, productive, innovative and creative.
 * *I am interested in Web designing*
 
+- At the moment, I'm learning testing QA.
 - 👯 I’m looking forward to collaborate on new projects.
 - ✔ Ask me about anything, I am happy to help. 😉<br>
 - Outside tech, 📖 I love to read novels, playing the guitar and 🎵 listen to music.
