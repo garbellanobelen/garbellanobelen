@@ -3,9 +3,9 @@
 ***About me***
 
 I am a frontend developer and occasional UI/UX Designer who loves making high-quality websites. Javascript, HTML, and CSS are the languages I am good at. I love learning and building something new, productive, innovative and creative.
-* *I am interested in Web designing*
+* *I am interested in Web designing and Testing*
 
-- At the moment, I'm learning testing QA.
+- I recently completed a manual QA testing course.
 - 👯 I’m looking forward to collaborate on new projects.
 - ✔ Ask me about anything, I am happy to help. 😉<br>
 - Outside tech, 📖 I love to read novels, playing the guitar and 🎵 listen to music.
