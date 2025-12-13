@@ -37,5 +37,5 @@ I am a frontend developer and occasional UI/UX Designer who loves making high-qu
 ## Contact me
 
 <a href="mailto:belugarbellanowd@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/garbellanobelen@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="eMail" src="https://img.shields.io/badge/belugarbellanowd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
